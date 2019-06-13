@@ -1,5 +1,5 @@
-# catastrophic-interference-keras
-Accompanying code for the paper "Prevention of catastrophic interference and imposing active forgetting with generative methods". The link to the paper will be provided upon publishing.
+# Prevention of catastrophic interference and imposing active forgetting with generative methods
+Accompanying code for the paper *"Prevention of catastrophic interference and imposing active forgetting with generative methods"*. The link to the paper will be provided upon publishing.
 The list of files:
 * Joint training and Few-Shot Self-Reminder: **JointTraining_MNIST-2b.ipynb**
 * Consecutive training using Elastic Weight Consolidation method: **MNIST_EWC.ipynb**
