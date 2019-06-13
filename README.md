@@ -8,5 +8,5 @@ The list of files:
 * Selective erazing memory in feedforward classifier using Few-shot Self-Reminder (FSR) method and Langevin dynamics FSR method: **Erase memory-plain.ipynb**
 * Selective erazing memory in conditional variational autoencoder: **Erase memory_cvae.ipynb**
 * Selective erazing memory in conditional variational autoencoder which classifier produces sparse activity at its output (instead of one-hot activity): **Erase memory_cvae_sparse.ipynb**
-* Embedding false memory into feedforward classifier using Few-shot Self-Reminder (FSR) method and Langevin dynamics FSR method: **False memory.ipynb**
+* Embedding false memory into feedforward classifier using Few-shot Self-Reminder (FSR) method and Langevin dynamics FSR method: **False memory-plain.ipynb**
 * Embedding false memory into conditional variational autoencoder: **False memory_cvae.ipynb**
