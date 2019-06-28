@@ -4,7 +4,8 @@ Accompanying code for the paper *"Prevention of catastrophic interference and im
 
 ## Implementation
 
-File Name | Description |
+File Name | Description 
+----------|------------
 JointTraining_MNIST-2b.ipynb | Joint training and Few-Shot Self-Reminder 
 MNIST_EWC.ipynb | Consecutive training using Elastic Weight Consolidation method 
 Dreams_MNIST_plain.ipynb | Avoiding catastrophic interference with activation maximization 
